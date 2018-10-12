@@ -24,4 +24,4 @@ for i in range(height):
         rgb = im.getpixel((i,j))
         im2.putpixel((height-1-i, width-1-j), rgb)
 
-im2.save("D:\!MLML\李弘毅 class\HW0\Lena2.png")
+im2.save("D:\!MLML\李弘毅 class\HW0\Lena2.png")sds
